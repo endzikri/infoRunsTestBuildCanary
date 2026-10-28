@@ -1,0 +1,11 @@
+trigger:
+- main
+
+pool: default
+
+steps:
+- script: echo cao sta ima
+
+# steps:
+# - script: echo hello
+#    displayName: [[[
