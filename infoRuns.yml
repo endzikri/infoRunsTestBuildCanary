@@ -4,9 +4,9 @@ trigger:
 pool:
   vmImage: 'ubuntu-latest'
 
-steps:
-- script: echo cao sta ima lalala
-
 # steps:
-# - script: echo hello
-#    displayName: [[[
+# - script: echo cao sta ima lalala
+
+steps:
+- script: echo hello
+   displayName: [[[
